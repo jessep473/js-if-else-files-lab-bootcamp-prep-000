@@ -6,11 +6,11 @@ var height = "74";
 
 
 if (name === "Joe") {
-  console.log('yeah your right')
+  console.log('Name Is Correct')
 }
 
 else {
-  console.log('yourdumb')
+  console.log('Name is incorrect')
 }
 
 // Don't worry about this
